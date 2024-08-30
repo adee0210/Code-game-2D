@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "cSpell.language": "en,vi",
+    "cSpell.words": [
+        "firstname",
+        "lastname",
+        "yearofbirth"
+    ]
+}
