@@ -20,7 +20,7 @@ public class ClientGame {
         BufferedImage image = null;
         try {
             // URL url = new URL("");
-            File file = new File("C:/F_Java.IntelliJ/CODE GAME/src/Icon Game/SlayerLegend-game-thumb.jpg");
+            File file = new File("C:/Users/admin/Downloads/hinh-nen-3d-gaming-4k_507102.jpg");
             image = ImageIO.read(file);
         } catch (IOException e) {
             throw new RuntimeException(e);
